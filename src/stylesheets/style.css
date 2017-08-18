@@ -1,0 +1,45 @@
+
+.ui.form {
+  margin: auto !important;
+  width: 70% !important;
+  padding-left: 3%;
+  padding-bottom: 2%;
+}
+
+.imageForm {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.six.wide.column.six{
+  position: fixed;
+  padding-top: 3% !important;
+  margin-left: 9% !important;
+}
+
+.menu {
+  padding-left: 1%;
+  padding-right: 0.5%;
+}
+
+.table {
+  margin-top: 20px;
+  text-align: center;
+  margin: auto !important;
+  width: 75% !important;
+}
+
+.ui.table tbody tr td {
+  text-align: center;
+  font-family: Georgia;
+  font-size: 16px;
+}
+/*
+ul {
+  list-style-type: none;
+}
+li:before {
+  content: "\2605";
+  margin: 0 1em;
+}*/

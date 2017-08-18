@@ -1,0 +1,17 @@
+MVP
+EP
+- Find trends in text, visualizations/help
+diversify text
+
+- Make text visulaization app
+    - have an input field
+    - hit text based api tweeter.com
+    - add thesaurus https://words.bighugelabs.com/api.php
+
+Addons:
+- sockets.io
+- mo.js, rx.js
+- charting library/ies
+- twillio?
+- twitter
+- add thesaurus
